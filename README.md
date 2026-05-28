@@ -1,4 +1,4 @@
-# ESPectre
+# FrameHunter32
 
 ESP32-based Wi-Fi analysis and packet sniffing tool developed using the Espressif ESP-IDF framework.
 Designed for wireless monitoring, frame analysis, access point discovery, and WPA/WPA2 handshake capture.
