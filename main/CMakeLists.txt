@@ -1,0 +1,10 @@
+idf_component_register(
+    SRCS
+        "main.c"
+        "cli.c"
+        "sniffer.c"
+        "wifi_mgr.c"
+        "deauth.c"
+    INCLUDE_DIRS
+        "."
+)
